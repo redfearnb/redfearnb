@@ -27,8 +27,8 @@ I am a Product Leader and Systems Engineering professional dedicated to bridging
 ---
 
 ### 🌐 Digital Presence
-- **Professional Hub:** [LinkedIn](https://linkedin.com/in/redfearnb/) (Most up-to-date)
-- **Consulting & Research:** [Redfearn Group](https://redfearn.group)
+- **Professional Hub:** [LinkedIn](https://www.linkedin.com/in/redfearnb/) (Most up-to-date)
+- **Consulting & Research:** [Redfearn Group](https://www.redfearn.group)
 - **Location:** Spanish Fork, UT
 
 ---
