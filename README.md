@@ -17,7 +17,7 @@ I am a Product Leader and Systems Engineering professional dedicated to bridging
 **Leadership & Strategy**
 ![Product Management](https://img.shields.io/badge/-Product%20Management-000000?style=flat-square&logo=producthunt)
 ![Systems Engineering](https://img.shields.io/badge/-Systems%20Engineering-0078D4?style=flat-square&logo=microsoft)
-![UX Design](https://img.shields.io/badge/-UX%20Design-FF61F6?style=flat-square&logo=figma)
+![UX Research](https://img.shields.io/badge/-UX%20Design-FF61F6?style=flat-square&logo=figma)
 
 **Technical & Infrastructure**
 ![IT Strategy](https://img.shields.io/badge/-IT%20Strategy-333333?style=flat-square&logo=github)
